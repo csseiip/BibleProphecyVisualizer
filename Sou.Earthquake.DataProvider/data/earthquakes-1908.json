@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1908-01-01%2000:00:00&endtime=1908-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 4
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Sicily, Italy",
+                "time": -1925321974000,
+                "updated": 1518649415198,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958009",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958009&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "16958009",
+                "ids": ",iscgem16958009,",
+                "sources": ",iscgem,",
+                "types": ",impact-text,origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Sicily, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.349,
+                    38,
+                    15
+                ]
+            },
+            "id": "iscgem16958009"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Myanmar",
+                "time": -1926673503000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958007",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958007&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "16958007",
+                "ids": ",iscgem16958007,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.773,
+                    26.948,
+                    15
+                ]
+            },
+            "id": "iscgem16958007"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "western Xizang",
+                "time": -1936533996000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957997",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957997&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgemsup",
+                "code": "16957997",
+                "ids": ",iscgemsup16957997,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - western Xizang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.835,
+                    31.228,
+                    15
+                ]
+            },
+            "id": "iscgemsup16957997"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "western Sichuan, China",
+                "time": -1953179203000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957984",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957984&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "16957984",
+                "ids": ",iscgem16957984,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - western Sichuan, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.656,
+                    29.278,
+                    15
+                ]
+            },
+            "id": "iscgem16957984"
+        }
+    ]
+}

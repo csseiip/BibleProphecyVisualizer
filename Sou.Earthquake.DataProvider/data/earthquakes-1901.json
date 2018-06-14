@@ -1,0 +1,93 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1901-01-01%2000:00:00&endtime=1901-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 2
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "off the east coast of Honshu, Japan",
+                "time": -2158378020000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957736",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957736&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgem",
+                "code": "16957736",
+                "ids": ",iscgem16957736,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - off the east coast of Honshu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144,
+                    40,
+                    0
+                ]
+            },
+            "id": "iscgem16957736"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "southeast of the Loyalty Islands",
+                "time": -2158397940000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957737",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957737&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "iscgem",
+                "code": "16957737",
+                "ids": ",iscgem16957737,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - southeast of the Loyalty Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170,
+                    -22,
+                    0
+                ]
+            },
+            "id": "iscgem16957737"
+        }
+    ]
+}

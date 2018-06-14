@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1904-01-01%2000:00:00&endtime=1904-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 2
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "off the east coast of the Kamchatka Peninsula, Russia",
+                "time": -2067562763000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957819",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957819&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "16957819",
+                "ids": ",iscgem16957819,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - off the east coast of the Kamchatka Peninsula, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.445,
+                    52.864,
+                    30
+                ]
+            },
+            "id": "iscgem16957819"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "off the east coast of the Kamchatka Peninsula, Russia",
+                "time": -2067585261000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957820",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957820&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgemsup",
+                "code": "16957820",
+                "ids": ",iscgemsup16957820,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - off the east coast of the Kamchatka Peninsula, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.417,
+                    51.565,
+                    15
+                ]
+            },
+            "id": "iscgemsup16957820"
+        }
+    ],
+    "bbox": [
+        160.445,
+        51.565,
+        15,
+        161.417,
+        52.864,
+        30
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948024000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1910-01-01%2000:00:00&endtime=1910-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 6
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "Kepulauan Talaud, Indonesia",
+                "time": -1863249305000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958127",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958127&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgem",
+                "code": "16958127",
+                "ids": ",iscgem16958127,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - Kepulauan Talaud, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.051,
+                    4.685,
+                    15
+                ]
+            },
+            "id": "iscgem16958127"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Lake Tanganyika region, Tanzania",
+                "time": -1863519753000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958124",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958124&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgemsup",
+                "code": "16958124",
+                "ids": ",iscgemsup16958124,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - Lake Tanganyika region, Tanzania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.27,
+                    -6.351,
+                    15
+                ]
+            },
+            "id": "iscgemsup16958124"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Vanuatu",
+                "time": -1866477480000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958113",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958113&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "16958113",
+                "ids": ",iscgem16958113,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - Vanuatu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.904,
+                    -16.289,
+                    20
+                ]
+            },
+            "id": "iscgem16958113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "Vanuatu",
+                "time": -1879090157000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958089",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958089&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "16958089",
+                "ids": ",iscgem16958089,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - Vanuatu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.438,
+                    -19.572,
+                    100
+                ]
+            },
+            "id": "iscgem16958089"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.1,
+                "place": "northeast of Taiwan",
+                "time": -1884728256000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958079",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958079&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1009,
+                "net": "iscgem",
+                "code": "16958079",
+                "ids": ",iscgem16958079,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.1 - northeast of Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.973,
+                    25.911,
+                    235
+                ]
+            },
+            "id": "iscgem16958079"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Yellow Sea",
+                "time": -1892797835000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958065",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958065&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgemsup",
+                "code": "16958065",
+                "ids": ",iscgemsup16958065,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Yellow Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.976,
+                    34.043,
+                    20
+                ]
+            },
+            "id": "iscgemsup16958065"
+        }
+    ],
+    "bbox": [
+        31.27,
+        -19.572,
+        15,
+        169.438,
+        34.043,
+        235
+    ]
+}

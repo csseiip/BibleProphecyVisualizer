@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948022000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1905-01-01%2000:00:00&endtime=1905-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 8
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.6,
+                "place": "eastern Turkey",
+                "time": -2022061193000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957879",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957879&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 482,
+                "net": "iscgem",
+                "code": "16957879",
+                "ids": ",iscgem16957879,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 5.6 - eastern Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.83,
+                    37.216,
+                    15
+                ]
+            },
+            "id": "iscgem16957879"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "eastern Turkey",
+                "time": -2022080070000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup603952288",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup603952288&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgemsup",
+                "code": "603952288",
+                "ids": ",iscgem603952288,iscgem603952288,iscgemsup603952288,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - eastern Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.645,
+                    38.153,
+                    10
+                ]
+            },
+            "id": "iscgemsup603952288"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "Aegean Sea",
+                "time": -2024272430000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957878",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957878&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgemsup",
+                "code": "16957878",
+                "ids": ",iscgem16957878,iscgem16957878,iscgemsup16957878,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - Aegean Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.974,
+                    39.114,
+                    15
+                ]
+            },
+            "id": "iscgemsup16957878"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "Georgia (Sak'art'velo)",
+                "time": -2025867513000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957875",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957875&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgemsup",
+                "code": "16957875",
+                "ids": ",iscgem16957875,iscgem16957875,iscgemsup16957875,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - Georgia (Sak'art'velo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.664,
+                    43.096,
+                    15
+                ]
+            },
+            "id": "iscgemsup16957875"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.2,
+                "place": "Sicily, Italy",
+                "time": -2029616218000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957871",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957871&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 798,
+                "net": "iscgem",
+                "code": "16957871",
+                "ids": ",iscgem16957871,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.2 - Sicily, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.784,
+                    38.636,
+                    15
+                ]
+            },
+            "id": "iscgem16957871"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.3,
+                "place": "western Mongolia",
+                "time": -2033673218000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957865",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957865&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1060,
+                "net": "iscgem",
+                "code": "16957865",
+                "ids": ",iscgem16957865,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.3 - western Mongolia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.61,
+                    49.369,
+                    15
+                ]
+            },
+            "id": "iscgem16957865"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.3,
+                "place": "central Mongolia",
+                "time": -2034857961000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957859",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957859&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1060,
+                "net": "iscgem",
+                "code": "16957859",
+                "ids": ",iscgem16957859,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.3 - central Mongolia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.483,
+                    49.709,
+                    15
+                ]
+            },
+            "id": "iscgem16957859"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "Himachal Pradesh, India",
+                "time": -2043184201000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957848",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957848&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "iscgem",
+                "code": "16957848",
+                "ids": ",iscgem16957848,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - Himachal Pradesh, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.788,
+                    32.636,
+                    20
+                ]
+            },
+            "id": "iscgem16957848"
+        }
+    ],
+    "bbox": [
+        15.784,
+        32.636,
+        10,
+        98.483,
+        49.709,
+        20
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1917-01-01%2000:00:00&endtime=1917-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 10
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "offshore Oaxaca, Mexico",
+                "time": -1641172160000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913745&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "913745",
+                "ids": ",iscgem913745,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - offshore Oaxaca, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.487,
+                    15.592,
+                    20
+                ]
+            },
+            "id": "iscgem913745"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "off the east coast of the North Island of New Zealand",
+                "time": -1653811775000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913599",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913599&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "913599",
+                "ids": ",iscgem913599,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - off the east coast of the North Island of New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.437,
+                    -41.481,
+                    15
+                ]
+            },
+            "id": "iscgem913599"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "eastern Sichuan, China",
+                "time": -1654301151000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913594",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913594&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "913594",
+                "ids": ",iscgem913594,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - eastern Sichuan, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.188,
+                    28.379,
+                    15
+                ]
+            },
+            "id": "iscgem913594"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "New Guinea, Papua New Guinea",
+                "time": -1654394848000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913586",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913586&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgem",
+                "code": "913586",
+                "ids": ",iscgem913586,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - New Guinea, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.572,
+                    -3.687,
+                    35
+                ]
+            },
+            "id": "iscgem913586"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8,
+                "place": "Samoa Islands region",
+                "time": -1657303814000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913548",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913548&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 985,
+                "net": "iscgem",
+                "code": "913548",
+                "ids": ",iscgem913548,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.0 - Samoa Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -173.562,
+                    -14.739,
+                    15
+                ]
+            },
+            "id": "iscgem913548"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "south of Alaska",
+                "time": -1659539548000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913517",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913517&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgem",
+                "code": "913517",
+                "ids": ",iscgem913517,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - south of Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -159.433,
+                    54.934,
+                    35
+                ]
+            },
+            "id": "iscgem913517"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.2,
+                "place": "Kermadec Islands region",
+                "time": -1662096820000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913483",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913483&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1034,
+                "net": "iscgem",
+                "code": "913483",
+                "ids": ",iscgem913483,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.2 - Kermadec Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -176.461,
+                    -31.08,
+                    15
+                ]
+            },
+            "id": "iscgem913483"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Buryatiya, Russia",
+                "time": -1662293070000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913481",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913481&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "913481",
+                "ids": ",iscgem913481,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Buryatiya, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.329,
+                    56.285,
+                    10
+                ]
+            },
+            "id": "iscgem913481"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "near the east coast of the Kamchatka Peninsula, Russia",
+                "time": -1670015660000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913404",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup913404&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "iscgemsup",
+                "code": "913404",
+                "ids": ",iscgem913404,iscgem913404,iscgemsup913404,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - near the east coast of the Kamchatka Peninsula, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.168,
+                    56.136,
+                    20
+                ]
+            },
+            "id": "iscgemsup913404"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Anhui, China",
+                "time": -1670541082000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913399",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup913399&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgemsup",
+                "code": "913399",
+                "ids": ",iscgemsup913399,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Anhui, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.954,
+                    31.617,
+                    20
+                ]
+            },
+            "id": "iscgemsup913399"
+        }
+    ],
+    "bbox": [
+        -176.461,
+        -41.481,
+        10,
+        176.437,
+        56.285,
+        35
+    ]
+}

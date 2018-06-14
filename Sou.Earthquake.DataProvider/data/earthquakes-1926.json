@@ -1,0 +1,2301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948024000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1926-01-01%2000:00:00&endtime=1926-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 57
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "New Guinea, Papua New Guinea",
+                "time": -1357578994000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910301",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910301&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgem",
+                "code": "910301",
+                "ids": ",iscgem910301,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - New Guinea, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.683,
+                    -4.928,
+                    35
+                ]
+            },
+            "id": "iscgem910301"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "Leyte, Philippines",
+                "time": -1360003233000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910250",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910250&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 591,
+                "net": "iscgem",
+                "code": "910250",
+                "ids": ",iscgem910250,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.2 - Leyte, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.699,
+                    11.261,
+                    15
+                ]
+            },
+            "id": "iscgem910250"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Nicaragua",
+                "time": -1361894673000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910221",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910221&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "910221",
+                "ids": ",iscgem910221,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Nicaragua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.875,
+                    12.598,
+                    15
+                ]
+            },
+            "id": "iscgem910221"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "east of the Kuril Islands",
+                "time": -1362106229000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910217",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910217&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910217",
+                "ids": ",iscgem910217,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - east of the Kuril Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154.489,
+                    46.165,
+                    25
+                ]
+            },
+            "id": "iscgem910217"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Vancouver Island, Canada region",
+                "time": -1362262835000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910211",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910211&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910211",
+                "ids": ",iscgem910211,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Vancouver Island, Canada region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.708,
+                    48.909,
+                    15
+                ]
+            },
+            "id": "iscgem910211"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "near the north coast of Papua, Indonesia",
+                "time": -1362735838000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910194",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910194&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910194",
+                "ids": ",iscgem910194,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - near the north coast of Papua, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.768,
+                    -2.633,
+                    35
+                ]
+            },
+            "id": "iscgem910194"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "near the north coast of Papua, Indonesia",
+                "time": -1362764907000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910192",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910192&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "910192",
+                "ids": ",iscgem910192,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - near the north coast of Papua, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.318,
+                    -2.795,
+                    25
+                ]
+            },
+            "id": "iscgem910192"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "near the north coast of Papua, Indonesia",
+                "time": -1362773715000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910191",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910191&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgem",
+                "code": "910191",
+                "ids": ",iscgem910191,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - near the north coast of Papua, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.283,
+                    -2.834,
+                    35
+                ]
+            },
+            "id": "iscgem910191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "offshore Central California",
+                "time": -1363083873000,
+                "updated": 1515539645877,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910175",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910175&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910175",
+                "ids": ",iscgem910175,",
+                "sources": ",iscgem,",
+                "types": ",impact-text,origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - offshore Central California"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.18,
+                    36.725,
+                    10
+                ]
+            },
+            "id": "iscgem910175"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Andreanof Islands, Aleutian Islands, Alaska",
+                "time": -1363841502000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910162",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910162&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "910162",
+                "ids": ",iscgem910162,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Andreanof Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -175.288,
+                    51.49,
+                    40
+                ]
+            },
+            "id": "iscgem910162"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "Andreanof Islands, Aleutian Islands, Alaska",
+                "time": -1363858922000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910160",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910160&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "910160",
+                "ids": ",iscgem910160,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - Andreanof Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.538,
+                    51.608,
+                    50
+                ]
+            },
+            "id": "iscgem910160"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "Andreanof Islands, Aleutian Islands, Alaska",
+                "time": -1363888650000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910159",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910159&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "910159",
+                "ids": ",iscgem910159,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - Andreanof Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.84,
+                    51.352,
+                    45
+                ]
+            },
+            "id": "iscgem910159"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "north of Macquarie Island",
+                "time": -1364703715000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910139",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910139&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgem",
+                "code": "910139",
+                "ids": ",iscgem910139,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - north of Macquarie Island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.597,
+                    -50.182,
+                    10
+                ]
+            },
+            "id": "iscgem910139"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "off the east coast of Honshu, Japan",
+                "time": -1364744000000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910138",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910138&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910138",
+                "ids": ",iscgem910138,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - off the east coast of Honshu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.87,
+                    37.776,
+                    25
+                ]
+            },
+            "id": "iscgem910138"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.1,
+                "place": "Solomon Islands",
+                "time": -1366178448000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910107",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910107&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 776,
+                "net": "iscgem",
+                "code": "910107",
+                "ids": ",iscgem910107,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.1 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.451,
+                    -9.504,
+                    15
+                ]
+            },
+            "id": "iscgem910107"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Taiwan region",
+                "time": -1366532172000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910104",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910104&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "910104",
+                "ids": ",iscgem910104,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Taiwan region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.384,
+                    22.936,
+                    15
+                ]
+            },
+            "id": "iscgem910104"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.1,
+                "place": "south of Java, Indonesia",
+                "time": -1366723533000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910100",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910100&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 776,
+                "net": "iscgem",
+                "code": "910100",
+                "ids": ",iscgem910100,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.1 - south of Java, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.617,
+                    -9.156,
+                    35
+                ]
+            },
+            "id": "iscgem910100"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "eastern New Guinea region, Papua New Guinea",
+                "time": -1366976216000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910090",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910090&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "910090",
+                "ids": ",iscgem910090,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - eastern New Guinea region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.496,
+                    -5.441,
+                    35
+                ]
+            },
+            "id": "iscgem910090"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "Hokkaido, Japan region",
+                "time": -1367223780000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910083",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910083&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgem",
+                "code": "910083",
+                "ids": ",iscgem910083,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - Hokkaido, Japan region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.102,
+                    42.501,
+                    35
+                ]
+            },
+            "id": "iscgem910083"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "South Indian Ocean",
+                "time": -1367447889000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910080",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910080&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "910080",
+                "ids": ",iscgem910080,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - South Indian Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.906,
+                    -34.455,
+                    10
+                ]
+            },
+            "id": "iscgem910080"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "southern Greece",
+                "time": -1367670116000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910077",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910077&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910077",
+                "ids": ",iscgem910077,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - southern Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.995,
+                    36.57,
+                    50
+                ]
+            },
+            "id": "iscgem910077"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "southeast of the Loyalty Islands",
+                "time": -1368123314000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910072",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910072&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "910072",
+                "ids": ",iscgem910072,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - southeast of the Loyalty Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.139,
+                    -23.145,
+                    20
+                ]
+            },
+            "id": "iscgem910072"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Taiwan region",
+                "time": -1369475837000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup910041",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup910041&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgemsup",
+                "code": "910041",
+                "ids": ",iscgemsup910041,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Taiwan region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.014,
+                    27.068,
+                    35
+                ]
+            },
+            "id": "iscgemsup910041"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "Andreanof Islands, Aleutian Islands, Alaska",
+                "time": -1369513228000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910040",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910040&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgem",
+                "code": "910040",
+                "ids": ",iscgem910040,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - Andreanof Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -175.446,
+                    51.655,
+                    35
+                ]
+            },
+            "id": "iscgem910040"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Kashmir-Xinjiang border region",
+                "time": -1369703643000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910016",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910016&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "910016",
+                "ids": ",iscgem910016,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Kashmir-Xinjiang border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.679,
+                    35.397,
+                    10
+                ]
+            },
+            "id": "iscgem910016"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "Ceram Sea, Indonesia",
+                "time": -1370006872000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909968",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909968&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "909968",
+                "ids": ",iscgem909968,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - Ceram Sea, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.346,
+                    -2.652,
+                    15
+                ]
+            },
+            "id": "iscgem909968"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Taiwan region",
+                "time": -1370031502000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909966",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909966&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "909966",
+                "ids": ",iscgem909966,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Taiwan region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.646,
+                    21.511,
+                    15
+                ]
+            },
+            "id": "iscgem909966"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "Catanduanes, Philippines",
+                "time": -1370113106000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909963",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909963&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "909963",
+                "ids": ",iscgem909963,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - Catanduanes, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.047,
+                    13.356,
+                    15
+                ]
+            },
+            "id": "iscgem909963"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Solomon Islands",
+                "time": -1370531254000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909959",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909959&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "909959",
+                "ids": ",iscgem909959,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.332,
+                    -8.512,
+                    15
+                ]
+            },
+            "id": "iscgem909959"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "eastern New Guinea region, Papua New Guinea",
+                "time": -1371592513000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909944",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909944&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909944",
+                "ids": ",iscgem909944,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - eastern New Guinea region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.484,
+                    -6.221,
+                    35
+                ]
+            },
+            "id": "iscgem909944"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "Molucca Sea",
+                "time": -1372079329000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909928",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909928&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "909928",
+                "ids": ",iscgem909928,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - Molucca Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.016,
+                    0.55,
+                    15
+                ]
+            },
+            "id": "iscgem909928"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "southern Sumatra, Indonesia",
+                "time": -1372845059000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909912",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909912&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgem",
+                "code": "909912",
+                "ids": ",iscgem909912,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - southern Sumatra, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.146,
+                    -2.994,
+                    25
+                ]
+            },
+            "id": "iscgem909912"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "Ryukyu Islands, Japan",
+                "time": -1373016790000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909904",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909904&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgem",
+                "code": "909904",
+                "ids": ",iscgem909904,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - Ryukyu Islands, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.158,
+                    27.048,
+                    15
+                ]
+            },
+            "id": "iscgem909904"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "southern Sumatra, Indonesia",
+                "time": -1373132652000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909898",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909898&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgem",
+                "code": "909898",
+                "ids": ",iscgem909898,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - southern Sumatra, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.155,
+                    -0.629,
+                    35
+                ]
+            },
+            "id": "iscgem909898"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "northern Sumatra, Indonesia",
+                "time": -1373142992000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909897",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909897&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "909897",
+                "ids": ",iscgem909897,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - northern Sumatra, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.468,
+                    0.102,
+                    15
+                ]
+            },
+            "id": "iscgem909897"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "Dodecanese Islands, Greece",
+                "time": -1373256807000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909893",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909893&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "909893",
+                "ids": ",iscgem909893,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - Dodecanese Islands, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.795,
+                    36.681,
+                    15
+                ]
+            },
+            "id": "iscgem909893"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "South Sandwich Islands region",
+                "time": -1373821544000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909880",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909880&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909880",
+                "ids": ",iscgem909880,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - South Sandwich Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.512,
+                    -56.152,
+                    35
+                ]
+            },
+            "id": "iscgem909880"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "Vanuatu",
+                "time": -1375297983000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909857",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909857&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "iscgem",
+                "code": "909857",
+                "ids": ",iscgem909857,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.4 - Vanuatu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.759,
+                    -15.016,
+                    25
+                ]
+            },
+            "id": "iscgem909857"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Southwest Indian Ridge",
+                "time": -1375525447000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909855",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909855&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909855",
+                "ids": ",iscgem909855,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Southwest Indian Ridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.965,
+                    -33.898,
+                    10
+                ]
+            },
+            "id": "iscgem909855"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Hokkaido, Japan region",
+                "time": -1375935301000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909852",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909852&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909852",
+                "ids": ",iscgem909852,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Hokkaido, Japan region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.122,
+                    41.161,
+                    35
+                ]
+            },
+            "id": "iscgem909852"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "Mindanao, Philippines",
+                "time": -1376499461000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909845",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909845&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "909845",
+                "ids": ",iscgem909845,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - Mindanao, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.957,
+                    5.473,
+                    35
+                ]
+            },
+            "id": "iscgem909845"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "offshore Jalisco, Mexico",
+                "time": -1377261573000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup909834",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup909834&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 591,
+                "net": "iscgemsup",
+                "code": "909834",
+                "ids": ",iscgemsup909834,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.2 - offshore Jalisco, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.439,
+                    19.995,
+                    15
+                ]
+            },
+            "id": "iscgemsup909834"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Solomon Islands",
+                "time": -1379777248000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909810",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909810&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "909810",
+                "ids": ",iscgem909810,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.634,
+                    -10.349,
+                    15
+                ]
+            },
+            "id": "iscgem909810"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Bismarck Sea",
+                "time": -1380116367000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909807",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909807&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909807",
+                "ids": ",iscgem909807,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Bismarck Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.857,
+                    -3.585,
+                    25
+                ]
+            },
+            "id": "iscgem909807"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Solomon Islands",
+                "time": -1381151481000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909794",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909794&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "909794",
+                "ids": ",iscgem909794,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.446,
+                    -8.943,
+                    15
+                ]
+            },
+            "id": "iscgem909794"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "New Britain region, Papua New Guinea",
+                "time": -1381555850000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909784",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909784&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909784",
+                "ids": ",iscgem909784,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - New Britain region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.439,
+                    -6.95,
+                    15
+                ]
+            },
+            "id": "iscgem909784"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "South Sandwich Islands region",
+                "time": -1381657251000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909780",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909780&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "909780",
+                "ids": ",iscgem909780,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - South Sandwich Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.662,
+                    -60.879,
+                    10
+                ]
+            },
+            "id": "iscgem909780"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "western Turkey",
+                "time": -1381917225000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909771",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909771&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgem",
+                "code": "909771",
+                "ids": ",iscgem909771,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - western Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.521,
+                    36.021,
+                    15
+                ]
+            },
+            "id": "iscgem909771"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "Caribbean Sea",
+                "time": -1382011577000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909769",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909769&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "909769",
+                "ids": ",iscgem909769,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - Caribbean Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.045,
+                    12.056,
+                    25
+                ]
+            },
+            "id": "iscgem909769"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "off the coast of Hokkaido, Japan",
+                "time": -1382758703000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909760",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909760&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909760",
+                "ids": ",iscgem909760,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - off the coast of Hokkaido, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.403,
+                    42.706,
+                    15
+                ]
+            },
+            "id": "iscgem909760"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Kepulauan Talaud, Indonesia",
+                "time": -1383143343000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909755",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909755&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "909755",
+                "ids": ",iscgem909755,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Kepulauan Talaud, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.729,
+                    4.675,
+                    15
+                ]
+            },
+            "id": "iscgem909755"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "off the coast of El Salvador",
+                "time": -1384635611000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909744",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909744&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "909744",
+                "ids": ",iscgem909744,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - off the coast of El Salvador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.039,
+                    12.054,
+                    15
+                ]
+            },
+            "id": "iscgem909744"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "south of the Fiji Islands",
+                "time": -1384786299000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909743",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909743&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "909743",
+                "ids": ",iscgem909743,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - south of the Fiji Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.079,
+                    -22.494,
+                    35
+                ]
+            },
+            "id": "iscgem909743"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.2,
+                "place": "offshore El Salvador",
+                "time": -1385196118000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909737",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909737&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 798,
+                "net": "iscgem",
+                "code": "909737",
+                "ids": ",iscgem909737,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.2 - offshore El Salvador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.666,
+                    12.299,
+                    20
+                ]
+            },
+            "id": "iscgem909737"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "southeast of the Loyalty Islands",
+                "time": -1386348920000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909722",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909722&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "909722",
+                "ids": ",iscgem909722,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - southeast of the Loyalty Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.338,
+                    -21.754,
+                    20
+                ]
+            },
+            "id": "iscgem909722"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "Solomon Islands",
+                "time": -1386458615000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909720",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909720&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgem",
+                "code": "909720",
+                "ids": ",iscgem909720,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.248,
+                    -10,
+                    15
+                ]
+            },
+            "id": "iscgem909720"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "South Indian Ocean",
+                "time": -1386989556000,
+                "updated": 1431543162000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909715",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem909715&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "909715",
+                "ids": ",iscgem909715,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - South Indian Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.211,
+                    -2.805,
+                    15
+                ]
+            },
+            "id": "iscgem909715"
+        }
+    ],
+    "bbox": [
+        -179.84,
+        -60.879,
+        10,
+        177.079,
+        51.655,
+        50
+    ]
+}

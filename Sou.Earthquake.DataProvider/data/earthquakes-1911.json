@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1911-01-01%2000:00:00&endtime=1911-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Guerrero, Mexico",
+                "time": -1831697128000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958175",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958175&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "16958175",
+                "ids": ",iscgem16958175,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - Guerrero, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.994,
+                    17.159,
+                    30
+                ]
+            },
+            "id": "iscgem16958175"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "western Xizang-India border region",
+                "time": -1837125361000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958167",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958167&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "16958167",
+                "ids": ",iscgem16958167,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - western Xizang-India border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.279,
+                    30.759,
+                    20
+                ]
+            },
+            "id": "iscgem16958167"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "Palau region",
+                "time": -1842225523000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958156",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958156&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "16958156",
+                "ids": ",iscgem16958156,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - Palau region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.944,
+                    7.237,
+                    15
+                ]
+            },
+            "id": "iscgem16958156"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "Philippine Islands region",
+                "time": -1845316342000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958154",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958154&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "16958154",
+                "ids": ",iscgem16958154,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - Philippine Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.103,
+                    8.546,
+                    15
+                ]
+            },
+            "id": "iscgem16958154"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "northwest of the Ryukyu Islands, Japan",
+                "time": -1847612047000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958149",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958149&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "iscgem",
+                "code": "16958149",
+                "ids": ",iscgem16958149,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - northwest of the Ryukyu Islands, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.778,
+                    29.049,
+                    100
+                ]
+            },
+            "id": "iscgem16958149"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "Michoacan, Mexico",
+                "time": -1848315430000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958148",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958148&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgem",
+                "code": "16958148",
+                "ids": ",iscgem16958148,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - Michoacan, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.442,
+                    18.517,
+                    30
+                ]
+            },
+            "id": "iscgem16958148"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "central Iran",
+                "time": -1852609533000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958141",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958141&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "16958141",
+                "ids": ",iscgem16958141,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - central Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.305,
+                    30.46,
+                    15
+                ]
+            },
+            "id": "iscgem16958141"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "Dodecanese Islands, Greece",
+                "time": -1853828173000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958138",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958138&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 554,
+                "net": "iscgemsup",
+                "code": "16958138",
+                "ids": ",iscgemsup16958138,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.0 - Dodecanese Islands, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.884,
+                    36.406,
+                    15
+                ]
+            },
+            "id": "iscgemsup16958138"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Tajikistan",
+                "time": -1857705531000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958134",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958134&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "16958134",
+                "ids": ",iscgem16958134,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.628,
+                    38.331,
+                    15
+                ]
+            },
+            "id": "iscgem16958134"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "eastern Kazakhstan",
+                "time": -1861662852000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958130",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958130&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "16958130",
+                "ids": ",iscgem16958130,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - eastern Kazakhstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53,
+                    43.013,
+                    20
+                ]
+            },
+            "id": "iscgem16958130"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "central Afghanistan",
+                "time": -1861882919000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958129",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958129&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "16958129",
+                "ids": ",iscgem16958129,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - central Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.571,
+                    37.334,
+                    35
+                ]
+            },
+            "id": "iscgem16958129"
+        }
+    ],
+    "bbox": [
+        -102.442,
+        7.237,
+        15,
+        136.944,
+        43.013,
+        100
+    ]
+}

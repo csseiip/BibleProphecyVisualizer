@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948022000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1902-01-01%2000:00:00&endtime=1902-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 4
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "Chiapas, Mexico",
+                "time": -2122947720000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957778",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957778&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "16957778",
+                "ids": ",iscgem16957778,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - Chiapas, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93,
+                    16,
+                    0
+                ]
+            },
+            "id": "iscgem16957778"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "Alamagan region, Northern Mariana Islands",
+                "time": -2123100840000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957777",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957777&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgem",
+                "code": "16957777",
+                "ids": ",iscgem16957777,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - Alamagan region, Northern Mariana Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146,
+                    18,
+                    0
+                ]
+            },
+            "id": "iscgem16957777"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "Kyrgyzstan-Xinjiang border region",
+                "time": -2125774800000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957769",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957769&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "16957769",
+                "ids": ",iscgem16957769,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - Kyrgyzstan-Xinjiang border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    40,
+                    0
+                ]
+            },
+            "id": "iscgem16957769"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "Guatemala",
+                "time": -2136577020000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957763",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957763&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgem",
+                "code": "16957763",
+                "ids": ",iscgem16957763,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - Guatemala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91,
+                    14,
+                    0
+                ]
+            },
+            "id": "iscgem16957763"
+        }
+    ]
+}

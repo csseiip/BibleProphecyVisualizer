@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1906-01-01%2000:00:00&endtime=1906-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "northern Xinjiang, China",
+                "time": -1988948329000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957935",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957935&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "16957935",
+                "ids": ",iscgem16957935,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - northern Xinjiang, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.572,
+                    44.284,
+                    15
+                ]
+            },
+            "id": "iscgem16957935"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "central Afghanistan",
+                "time": -1994059002000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957929",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957929&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgemsup",
+                "code": "16957929",
+                "ids": ",iscgemsup16957929,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - central Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.021,
+                    36.79,
+                    35
+                ]
+            },
+            "id": "iscgemsup16957929"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "northern Peru",
+                "time": -1996302919000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957922",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957922&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgemsup",
+                "code": "16957922",
+                "ids": ",iscgemsup16957922,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - northern Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.273,
+                    -4.144,
+                    100
+                ]
+            },
+            "id": "iscgemsup16957922"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8,
+                "place": "eastern New Guinea region, Papua New Guinea",
+                "time": -1997510117000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957920",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957920&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 985,
+                "net": "iscgemsup",
+                "code": "16957920",
+                "ids": ",iscgemsup16957920,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.0 - eastern New Guinea region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.281,
+                    -6.249,
+                    35
+                ]
+            },
+            "id": "iscgemsup16957920"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Ethiopia",
+                "time": -1999246354000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957915",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957915&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgemsup",
+                "code": "16957915",
+                "ids": ",iscgemsup16957915,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.813,
+                    7.415,
+                    15
+                ]
+            },
+            "id": "iscgemsup16957915"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.2,
+                "place": "Valparaiso, Chile",
+                "time": -1999984796000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957911",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957911&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1034,
+                "net": "iscgemsup",
+                "code": "16957911",
+                "ids": ",iscgemsup16957911,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.2 - Valparaiso, Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4,
+                    -32.4,
+                    35
+                ]
+            },
+            "id": "iscgemsup16957911"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.3,
+                "place": "Rat Islands, Aleutian Islands, Alaska",
+                "time": -1999986530000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957912",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957912&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1060,
+                "net": "iscgem",
+                "code": "16957912",
+                "ids": ",iscgem16957912,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.3 - Rat Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.18,
+                    51.853,
+                    110
+                ]
+            },
+            "id": "iscgem16957912"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "The 1906 San Francisco Earthquake",
+                "time": -2010394053700,
+                "updated": 1520608546647,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19060418131226300_12",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19060418131226300_12&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "official",
+                "code": "19060418131226300_12",
+                "ids": ",official19060418131226300_12,iscgem16957905,",
+                "sources": ",official,iscgem,",
+                "types": ",general-header,impact-text,isoseismal-map,origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - The 1906 San Francisco Earthquake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55,
+                    37.75,
+                    11.7
+                ]
+            },
+            "id": "official19060418131226300_12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "southern Xinjiang, China",
+                "time": -2014479890000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957887",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16957887&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgemsup",
+                "code": "16957887",
+                "ids": ",iscgemsup16957887,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - southern Xinjiang, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.031,
+                    41.736,
+                    20
+                ]
+            },
+            "id": "iscgemsup16957887"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.8,
+                "place": "near the coast of Ecuador",
+                "time": -2017038230000,
+                "updated": 1518649654956,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19060131153610_30&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1191,
+                "net": "official",
+                "code": "19060131153610_30",
+                "ids": ",iscgemsup16957884,official19060131153610_30,iscgem16957884,iscgem16957884,",
+                "sources": ",iscgemsup,official,is,iscgem,",
+                "types": ",general-header,impact-text,origin,trump-origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.8 - near the coast of Ecuador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.369,
+                    0.955,
+                    20
+                ]
+            },
+            "id": "official19060131153610_30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "near the south coast of Honshu, Japan",
+                "time": -2017908627000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957883",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957883&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgem",
+                "code": "16957883",
+                "ids": ",iscgem16957883,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - near the south coast of Honshu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.101,
+                    34.167,
+                    300
+                ]
+            },
+            "id": "iscgem16957883"
+        }
+    ],
+    "bbox": [
+        -122.55,
+        -32.4,
+        11.7,
+        178.18,
+        51.853,
+        300
+    ]
+}

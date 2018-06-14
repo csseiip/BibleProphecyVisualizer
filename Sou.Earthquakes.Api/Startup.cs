@@ -25,6 +25,12 @@ namespace Sou.Earthquakes.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpClient("SomeCustomAPI", client =>
+            {
+                client.BaseAddress = new Uri("https://someapiurl/");
+                client.DefaultRequestHeaders.Add("Accept", "application/json");
+            });
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

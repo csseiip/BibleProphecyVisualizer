@@ -1,0 +1,381 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948024000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1915-01-01%2000:00:00&endtime=1915-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 9
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Kyrgyzstan-Xinjiang border region",
+                "time": -1705424095000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913957",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913957&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "913957",
+                "ids": ",iscgem913957,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Kyrgyzstan-Xinjiang border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.177,
+                    41.711,
+                    20
+                ]
+            },
+            "id": "iscgem913957"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Bhutan",
+                "time": -1706649636000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913954",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913954&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgem",
+                "code": "913954",
+                "ids": ",iscgem913954,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - Bhutan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.64,
+                    27.7,
+                    15
+                ]
+            },
+            "id": "iscgem913954"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "off the east coast of Honshu, Japan",
+                "time": -1709397367000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913949",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup913949&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgemsup",
+                "code": "913949",
+                "ids": ",iscgem913949,iscgem913949,iscgemsup913949,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - off the east coast of Honshu, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.021,
+                    38.594,
+                    30
+                ]
+            },
+            "id": "iscgemsup913949"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.8,
+                "place": "Nevada",
+                "time": -1711904799000,
+                "updated": 1516905796685,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913944",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913944&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 711,
+                "net": "iscgem",
+                "code": "913944",
+                "ids": ",iscgem913944,",
+                "sources": ",iscgem,",
+                "types": ",impact-text,origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.8 - Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.654,
+                    40.258,
+                    10
+                ]
+            },
+            "id": "iscgem913944"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "Eritrea-Ethiopia border region",
+                "time": -1712763913000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913942",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913942&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 591,
+                "net": "iscgem",
+                "code": "913942",
+                "ids": ",iscgem913942,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.2 - Eritrea-Ethiopia border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.688,
+                    14.484,
+                    10
+                ]
+            },
+            "id": "iscgem913942"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "near the east coast of the Kamchatka Peninsula, Russia",
+                "time": -1717453708000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913925",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913925&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "913925",
+                "ids": ",iscgem913925,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - near the east coast of the Kamchatka Peninsula, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.052,
+                    54.121,
+                    20
+                ]
+            },
+            "id": "iscgem913925"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "Kuril Islands",
+                "time": -1725303590000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913898",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913898&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "913898",
+                "ids": ",iscgem913898,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - Kuril Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155.162,
+                    48.361,
+                    30
+                ]
+            },
+            "id": "iscgem913898"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "southwestern Ryukyu Islands, Japan",
+                "time": -1730610048000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913884",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913884&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "913884",
+                "ids": ",iscgem913884,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - southwestern Ryukyu Islands, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.492,
+                    23.359,
+                    20
+                ]
+            },
+            "id": "iscgem913884"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "central Italy",
+                "time": -1734628038000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913880",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913880&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "913880",
+                "ids": ",iscgem913880,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - central Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585,
+                    42.179,
+                    15
+                ]
+            },
+            "id": "iscgem913880"
+        }
+    ],
+    "bbox": [
+        -117.654,
+        14.484,
+        10,
+        162.052,
+        54.121,
+        30
+    ]
+}

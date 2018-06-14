@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948022000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1903-01-01%2000:00:00&endtime=1903-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 1
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "off the coast of Oaxaca, Mexico",
+                "time": -2113251180000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957788",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16957788&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "16957788",
+                "ids": ",iscgem16957788,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - off the coast of Oaxaca, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98,
+                    15,
+                    0
+                ]
+            },
+            "id": "iscgem16957788"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948024000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1913-01-01%2000:00:00&endtime=1913-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 7
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "Yunnan, China",
+                "time": -1768119724000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914108",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914108&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 691,
+                "net": "iscgem",
+                "code": "914108",
+                "ids": ",iscgem914108,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.7 - Yunnan, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.227,
+                    24.245,
+                    15
+                ]
+            },
+            "id": "iscgem914108"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "near the coast of southern Peru",
+                "time": -1779932723000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914088",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914088&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "914088",
+                "ids": ",iscgem914088,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - near the coast of southern Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.823,
+                    -16.469,
+                    25
+                ]
+            },
+            "id": "iscgem914088"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "east of the Kuril Islands",
+                "time": -1780382937000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914087",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914087&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 732,
+                "net": "iscgem",
+                "code": "914087",
+                "ids": ",iscgem914087,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.9 - east of the Kuril Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156.005,
+                    48.117,
+                    15
+                ]
+            },
+            "id": "iscgem914087"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "Tonga",
+                "time": -1783537361000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914078",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914078&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "914078",
+                "ids": ",iscgem914078,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - Tonga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -173.854,
+                    -20.53,
+                    25
+                ]
+            },
+            "id": "iscgem914078"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "Bulgaria",
+                "time": -1784557601000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914076",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914076&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "iscgem",
+                "code": "914076",
+                "ids": ",iscgem914076,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.6 - Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.952,
+                    43.603,
+                    15
+                ]
+            },
+            "id": "iscgem914076"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.2,
+                "place": "New Britain region, Papua New Guinea",
+                "time": -1785845569000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914073",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914073&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 798,
+                "net": "iscgem",
+                "code": "914073",
+                "ids": ",iscgem914073,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.2 - New Britain region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.767,
+                    -4.685,
+                    15
+                ]
+            },
+            "id": "iscgem914073"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.8,
+                "place": "Mindanao, Philippines",
+                "time": -1792509296000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914043",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914043&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 936,
+                "net": "iscgem",
+                "code": "914043",
+                "ids": ",iscgem914043,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.8 - Mindanao, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.121,
+                    5.354,
+                    15
+                ]
+            },
+            "id": "iscgem914043"
+        }
+    ],
+    "bbox": [
+        -173.854,
+        -20.53,
+        15,
+        156.005,
+        48.117,
+        25
+    ]
+}

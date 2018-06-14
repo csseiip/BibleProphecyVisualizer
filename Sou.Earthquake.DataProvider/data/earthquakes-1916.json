@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948024000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1916-01-01%2000:00:00&endtime=1916-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 8
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "east of the Kuril Islands",
+                "time": -1677832140000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913864",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913864&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "913864",
+                "ids": ",iscgem913864,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - east of the Kuril Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.998,
+                    49.755,
+                    15
+                ]
+            },
+            "id": "iscgem913864"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Nepal-India border region",
+                "time": -1683393619000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913843",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913843&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "913843",
+                "ids": ",iscgem913843,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Nepal-India border region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.745,
+                    29.73,
+                    20
+                ]
+            },
+            "id": "iscgem913843"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.2,
+                "place": "near the coast of Nicaragua",
+                "time": -1699155526000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913768",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup913768&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 798,
+                "net": "iscgemsup",
+                "code": "913768",
+                "ids": ",iscgem913768,iscgem913768,iscgemsup913768,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.2 - near the coast of Nicaragua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.99,
+                    11.542,
+                    15
+                ]
+            },
+            "id": "iscgemsup913768"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "Rat Islands, Aleutian Islands, Alaska",
+                "time": -1700964507000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913761",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913761&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "913761",
+                "ids": ",iscgem913761,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - Rat Islands, Aleutian Islands, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.051,
+                    50.459,
+                    15
+                ]
+            },
+            "id": "iscgem913761"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "central Turkey",
+                "time": -1702141487000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913755",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913755&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "913755",
+                "ids": ",iscgem913755,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - central Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.329,
+                    40.074,
+                    15
+                ]
+            },
+            "id": "iscgem913755"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.7,
+                "place": "Papua, Indonesia",
+                "time": -1703086768000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913750",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913750&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 912,
+                "net": "iscgem",
+                "code": "913750",
+                "ids": ",iscgem913750,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.7 - Papua, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.011,
+                    -3.987,
+                    35
+                ]
+            },
+            "id": "iscgem913750"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.1,
+                "place": "Papua, Indonesia",
+                "time": -1703094085000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913749",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913749&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 776,
+                "net": "iscgem",
+                "code": "913749",
+                "ids": ",iscgem913749,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.1 - Papua, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.731,
+                    -3.196,
+                    25
+                ]
+            },
+            "id": "iscgem913749"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.9,
+                "place": "New Britain region, Papua New Guinea",
+                "time": -1704105551000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913746",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913746&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 960,
+                "net": "iscgem",
+                "code": "913746",
+                "ids": ",iscgem913746,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.9 - New Britain region, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.548,
+                    -4.739,
+                    35
+                ]
+            },
+            "id": "iscgem913746"
+        }
+    ],
+    "bbox": [
+        -87.99,
+        -4.739,
+        15,
+        179.051,
+        50.459,
+        35
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1914-01-01%2000:00:00&endtime=1914-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 7
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "north of Halmahera, Indonesia",
+                "time": -1741714876000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914014",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914014&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 842,
+                "net": "iscgem",
+                "code": "914014",
+                "ids": ",iscgem914014,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.4 - north of Halmahera, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.141,
+                    4.239,
+                    35
+                ]
+            },
+            "id": "iscgem914014"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Himachal Pradesh, India",
+                "time": -1742937646000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914010",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914010&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "iscgem",
+                "code": "914010",
+                "ids": ",iscgem914010,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.3 - Himachal Pradesh, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.181,
+                    32.604,
+                    20
+                ]
+            },
+            "id": "iscgem914010"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "western Turkey",
+                "time": -1743385973000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914008",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914008&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 754,
+                "net": "iscgem",
+                "code": "914008",
+                "ids": ",iscgem914008,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.0 - western Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.021,
+                    37.629,
+                    15
+                ]
+            },
+            "id": "iscgem914008"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "northern Xinjiang, China",
+                "time": -1748567901000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914001",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem914001&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 820,
+                "net": "iscgem",
+                "code": "914001",
+                "ids": ",iscgem914001,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.3 - northern Xinjiang, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.09,
+                    42.747,
+                    15
+                ]
+            },
+            "id": "iscgem914001"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "southern Sumatra, Indonesia",
+                "time": -1752036755000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913990",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913990&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgem",
+                "code": "913990",
+                "ids": ",iscgem913990,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - southern Sumatra, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.82,
+                    -3.924,
+                    35
+                ]
+            },
+            "id": "iscgem913990"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.1,
+                "place": "Biak region, Indonesia",
+                "time": -1754645833000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913984",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem913984&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 1009,
+                "net": "iscgem",
+                "code": "913984",
+                "ids": ",iscgem913984,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 8.1 - Biak region, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.943,
+                    -1.829,
+                    15
+                ]
+            },
+            "id": "iscgem913984"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.6,
+                "place": "off the coast of Bio-Bio, Chile",
+                "time": -1764707055000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913964",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup913964&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 889,
+                "net": "iscgemsup",
+                "code": "913964",
+                "ids": ",iscgemsup913964,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.6 - off the coast of Bio-Bio, Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.057,
+                    -36.292,
+                    15
+                ]
+            },
+            "id": "iscgemsup913964"
+        }
+    ],
+    "bbox": [
+        -75.057,
+        -36.292,
+        15,
+        136.943,
+        42.747,
+        35
+    ]
+}

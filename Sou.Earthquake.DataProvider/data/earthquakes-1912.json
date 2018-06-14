@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1528948023000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1912-01-01%2000:00:00&endtime=1912-12-31%2023:59:59&minmagnitude=4.0&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.5.8",
+        "count": 5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "Palau region",
+                "time": -1806808117000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958211",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958211&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgem",
+                "code": "16958211",
+                "ids": ",iscgem16958211,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - Palau region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.888,
+                    7.299,
+                    15
+                ]
+            },
+            "id": "iscgem16958211"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.1,
+                "place": "western Turkey",
+                "time": -1811284257000,
+                "updated": 1431543161000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958205",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem16958205&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 776,
+                "net": "iscgem",
+                "code": "16958205",
+                "ids": ",iscgem16958205,",
+                "sources": ",iscgem,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.1 - western Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.023,
+                    40.638,
+                    15
+                ]
+            },
+            "id": "iscgem16958205"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "Uganda",
+                "time": -1813938110000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958200",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958200&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 554,
+                "net": "iscgemsup",
+                "code": "16958200",
+                "ids": ",iscgemsup16958200,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.0 - Uganda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.566,
+                    3.332,
+                    10
+                ]
+            },
+            "id": "iscgemsup16958200"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.5,
+                "place": "Myanmar",
+                "time": -1818020156000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958191",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958191&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 865,
+                "net": "iscgemsup",
+                "code": "16958191",
+                "ids": ",iscgem16958191,iscgem16958191,iscgemsup16958191,",
+                "sources": ",is,iscgem,iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 7.5 - Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.737,
+                    21.036,
+                    15
+                ]
+            },
+            "id": "iscgemsup16958191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "southern Greece",
+                "time": -1828337807000,
+                "updated": 1436806942000,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958178",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup16958178&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "iscgemsup",
+                "code": "16958178",
+                "ids": ",iscgemsup16958178,",
+                "sources": ",iscgemsup,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": null,
+                "gap": null,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 6.5 - southern Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.018,
+                    37.899,
+                    15
+                ]
+            },
+            "id": "iscgemsup16958178"
+        }
+    ],
+    "bbox": [
+        21.018,
+        3.332,
+        10,
+        136.888,
+        40.638,
+        15
+    ]
+}
